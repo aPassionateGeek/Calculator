@@ -6,7 +6,7 @@ This project is for learning purposes only, im planing on coming back from time 
 <details>
   <summary><b>v1.x:</b> Simple C# console application.</summary>
     <details>
-    <summary><b>v1.0:</b>Technical Overview</summary>
+    <summary><b>v1.0:</b> Technical Overview</summary>
     ### Key Concepts & C# Features Used
     - **Data Types & Precision:** Switch from integer division to `double` for accurate floating-point calculations.
     - **Input Validation & Parsing:** Robust input handling using `double.TryParse` to avoid `FormatException`.
