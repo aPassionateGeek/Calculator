@@ -9,17 +9,19 @@ This project is for learning purposes only, im planing on coming back from time 
     
   <summary><b>v1.0:</b> Technical Overview</summary>
       
-  ### Key Concepts & C# Features Used
-  - **Data Types & Precision:** Switch from integer division to `double` for accurate floating-point calculations.
-  - **Input Validation & Parsing:** Robust input handling using `double.TryParse` to avoid `FormatException`.
-  - **Error Handling:** Guard clauses to prevent runtime exceptions like `DivideByZeroException`.
-  - **Code Organization:** Modular structure using custom helper methods (`ReadNumber`, `ReadOperator`) to adhere to DRY            (Don't Repeat Yourself) principles.
-  - **Looping Constructs:** Program flow managed via `while` loops instead of recursion to prevent stack overflow issues.
+### How it works & Key Concepts
+
+This first version was all about getting the basics right and keeping the program from crashing on bad inputs.
+
+  * **Input Validation:** Used `int.TryParse` and `string.IsNullOrEmpty` to check user inputs so the console won't crash when       someone enters letters or leaves a field empty.
+  * **Control Flow & Routing:** Used `if` statements to split the logic depending on whether the user wants to calculate 2 or 3     values, and to pick the right math operation.
+  * **Console UI:** Kept the console clear and readable by using `Console.Clear()` after each input step.
+  * **Program Flow:** Restarted the calculation or recovered from wrong inputs by calling the `Main()` method again.
     
   </details>
     
   <details>
-    <summary><b>v1.1:</b></summary>
+  <summary><b>v1.1:</b></summary>
   </details>
 </details>
 
