@@ -9,6 +9,9 @@ This project is for learning purposes only, im planing on coming back from time 
     <summary>- **v1.0:**</summary>
     -
     </details>
+    <details>
+    <summary> - **v1.0:**</summary>
+    </details>
 </details>
 
 
