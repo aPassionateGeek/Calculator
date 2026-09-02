@@ -4,9 +4,9 @@ This project is for learning purposes only, im planing on coming back from time 
 ---
 ## Versions
 <details>
-  <summary>- v1.x: Simple C# console application.</summary>
+  <summary><b>v1.x:</b> Simple C# console application.</summary>
     <details>
-    <summary>- v1.0:</summary>
+    <summary><b>v1.0:</b></summary>
     - Calculations wit 2/3 values
     - Methods + - * /
     - 
@@ -17,6 +17,4 @@ This project is for learning purposes only, im planing on coming back from time 
     </details>
 </details>
 
-
-
-- v2.x: Future revision
+<b>v2.x:</b> Future revision
