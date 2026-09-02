@@ -19,4 +19,4 @@ This project is for learning purposes only, im planing on coming back from time 
 
 
 
-- **v2.x:** Future revision
+- v2.x: Future revision
