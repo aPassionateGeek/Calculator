@@ -11,8 +11,7 @@ This project is for learning purposes only, im planing on coming back from time 
     - Methods + - * /
     - 
     </details>
-    <details>
-    <summary> - v1.1:</summary>
+    <details><summary> - v1.1:</summary>
     - 
     </details>
 </details>
