@@ -14,7 +14,7 @@ This project is for learning purposes only, im planing on coming back from time 
 This first version was all about getting the basics right and keeping the program from crashing on bad inputs.
 
   * **Input Validation:** Used `int.TryParse` and `string.IsNullOrEmpty` to check user inputs so the console won't crash when       someone enters letters or leaves a field empty.
-  * **Control Flow & Routing:** Used `if` statements to split the logic depending on whether the user wants to calculate 2 or 3     values, and to pick the right math operation.
+  * **Control Flow & Routing:** Used `if` statements to split the logic depending on whether the user wants to calculate 2 or 3     values and to pick the right math operation.
   * **Console UI:** Kept the console clear and readable by using `Console.Clear()` after each input step.
   * **Program Flow:** Restarted the calculation or recovered from wrong inputs by calling the `Main()` method again.
     
